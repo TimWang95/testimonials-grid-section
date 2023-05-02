@@ -10,6 +10,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ## Links
 
 - Solution URL: [GitHub repo](https://github.com/TimWang95/frontend-mentor-solutions/tree/main/06-testimonials-grid-section/)
+- Live Site URL: [solution Demo](https://resonant-genie-2d94c1.netlify.app/)
 
 
 ## Built with
